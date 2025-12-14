@@ -1,7 +1,8 @@
 # 💫 About Me:
-still learning in ISTNUBA
-
-[![An image of @rizzturu13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rizzturu13)](https://holopin.io/@rizzturu13)
+👨‍💻 Backend Dev (Junior) | 💡 API & Logic  
+💻 PHP • 🐹 Golang • ⚡ Laravel  
+📚 Lifelong Learner • 🛠️ Build Things • 🔍 Problem Solver  
+🏋️‍♂️ Gym • 🎧 Music • ☕ Coffee • 🌙 Night Coder
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.rizky.906) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsnrzky) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hsnrzky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasanrizky20@gmail.com) 
@@ -13,6 +14,8 @@ still learning in ISTNUBA
 ![](https://nirzak-streak-stats.vercel.app/?user=hsnrzky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnrzky&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 🎃 Hacktoberfest Badge:
+[![An image of @rizzturu13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rizzturu13)](https://holopin.io/@rizzturu13)
 ---
 [![](https://visitcount.itsvg.in/api?id=hsnrzky&icon=0&color=0)](https://visitcount.itsvg.in)
 
